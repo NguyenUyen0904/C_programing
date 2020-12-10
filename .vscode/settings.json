@@ -1,0 +1,6 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "typeinfo": "cpp"
+}
