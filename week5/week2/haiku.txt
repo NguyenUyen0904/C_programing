@@ -1,5 +1,0 @@
-Huong dan bai 5 
-1. 2 con tro file finput, foutput
-chay thu tuc mo file 
-chay 1 vong lap de lam viec vs con tro file read: fgetc roi put vao  file ghi bang fputc
-

@@ -1,0 +1,12 @@
+ambition    tham_vong
+basketball    bong_ro
+champion    nha_vo_dich
+dad     bo
+difficult    kho
+handsome    dep_trai
+happy    vui_ve
+hello    xin_chao
+loser ke_thua_cuoc
+war    chien_tranh
+love    tinh_yeu
+mom    me

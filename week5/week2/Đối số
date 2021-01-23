@@ -1,9 +1,0 @@
-argv: Phần tử trên dòng lệnh 
-argc = số  đối số dòng lệnh +1. Các đóoi số thật sự lưu từ argv[1] trở đi 
-Cần biết số đối số = bn ?
-B1: Kiếm tra giá tricj của argc để xác định ng dùng có nhập đúng số đooí số đề yêu cầu nhập 
-hay ko 
-Nếu viết sai, thông báo lỗi . đưa ra ví duj hướng daãn
-B2: nếu đúng thì đọc ddối số vào dưới dạng các str từ argv[1]
-B3: Thực hiện chuyển đooỉ kiểu dữ liệu trên các đóoi số nếu cần thiết 
-B4: Lấy dữ liệu tính toán 
